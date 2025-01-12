@@ -27,7 +27,7 @@ The Central Coast Heritage Tree Foundation team consists of 14 Cal Poly students
 - [Cassia Gray](https://www.linkedin.com/) - Designer
 - [Tra Nguyen](https://www.linkedin.com/) - Designer
 - [Ella Hagen](https://www.linkedin.com/) - Tech Lead
-- [Kasey Liu]([https://www.linkedin.com/](https://www.linkedin.com/in/kasey-liu/)) - Tech Lead
+- [Kasey Liu]([https://www.linkedin.com/](https://www.linkedin.com/in/kasey-liu/) - Tech Lead
 - [Victor Herrera](https://www.linkedin.com/) - Software Developer
 - [Sophia Chang](https://www.linkedin.com/) - Software Developer
 - [Sam Phan](https://www.linkedin.com/) - Software Developer
